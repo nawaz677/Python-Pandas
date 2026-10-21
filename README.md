@@ -1,0 +1,1 @@
+Learning Python's Pandas library. Pandas is good for small to medium datasets that can be loaded in the memory of a local machine. It has functions similar to those of SQL but with Python syntax. Hope you learn something new and useful from it, cheers!
